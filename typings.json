@@ -1,0 +1,10 @@
+{
+  "name": "shipping-ups",
+  "main": "shipping-ups.d.ts",
+  "ambient": true,
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for shipping-ups.",
+  "ambientDevDependencies": {},
+  "dependencies": {
+  }
+}
