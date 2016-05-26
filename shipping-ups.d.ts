@@ -248,6 +248,7 @@ declare module "shipping-ups"
             "Service": { 
                 Name: string;
                 Code: string;
+                SaturdayDelivery: boolean;
             }, 
             "RatedShipmentWarning": string, 
             "BillingWeight": RateWeight,
