@@ -225,6 +225,11 @@ declare module "shipping-ups"
             return_service?: string;
 
             packages: Package[];
+            
+            /**
+             * Whether UPS should return rates for saturday delivery or not.
+             */
+            saturday_delivery?: boolean;
         }
         
         export interface RateCharge {
