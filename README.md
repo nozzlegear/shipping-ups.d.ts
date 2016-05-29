@@ -1,4 +1,4 @@
-# is-valid-zipcode.d.ts
+# shipping-ups.d.ts
 
 An ambient Typescript/Typings definition for [shipping-ups](https://www.npmjs.com/package/shipping-ups).
 
