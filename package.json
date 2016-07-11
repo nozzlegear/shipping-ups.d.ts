@@ -1,9 +1,9 @@
 {
-  "name": "shipping-ups.d.ts",
+  "name": "@types/shipping-ups",
   "version": "1.0.2",
   "description": "A Typescript/Typings definition for shipping-ups.",
   "main": "shipping-ups.d.ts",
-  "typings": "@types/shipping-ups.d.ts",
+  "typings": "shipping-ups.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
